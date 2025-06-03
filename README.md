@@ -9,5 +9,5 @@ Documentation on creation of Blue/White Shorts
 ## Pattern
 ![alt text](https://github.com/ParanoidAndriod6642/SilverLeaf-WhiteWaffle-Pants/blob/main/PantsPlan.jpg "Pants Plan")
 ## Notes
-[^1]: The shirt is not nearly as convenient as the duvet, I had to cut the shirt up and patchwork it onto the duvet backing, I took a painstaking amount of time to make each half of then shorts symmetrical so the patchwork seams wouldn’t be uneven.
+[^1]: The shirt is not nearly as convenient as the duvet, I had to cut the shirt up and patchwork it onto the duvet backing, I took a painstaking amount of time to make each half of the shorts symmetrical so the patchwork seams would be even.
 [^2]: see https://github.com/ParanoidAndriod6642/SilverLeaf-WhiteWaffle-Pants/tree/main?tab=readme-ov-file for image of duvet
